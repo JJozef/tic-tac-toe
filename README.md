@@ -1,0 +1,1 @@
+## Simple Tic Tac Toe game built with Next.js 13 (beta version).
